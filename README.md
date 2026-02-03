@@ -22,7 +22,7 @@
 
   <h2>🚀 Getting Started</h2>
   <h3>1. Clone the repository</h3>
-  <pre><code>git clone https://github.com/your-username/sentiment-visualization.git
+  <pre><code>git clone https://github.com/HibaFayona/sentiment-visualization.git
 cd sentiment-visualization
 </code></pre>
 
